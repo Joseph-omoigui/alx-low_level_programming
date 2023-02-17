@@ -1,7 +1,3 @@
-/*
- * File: 100-print_comb3.c
- * Auth: Joseph Omoigui
- */
 #include <stdio.h>
 /**
  * main - Prints all possible combinations of two different digits,
