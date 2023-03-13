@@ -1,5 +1,5 @@
 #include "main.h"
-#include <stdlib.h>		
+#include <stdlib.h>
 /**
  * argstostr - main entry
  * @ac: int input
@@ -12,7 +12,7 @@ int i, n, r = 0, l = 0;
 char *str;
 if (ac == 0 || av == NULL)
 return (NULL);
-for (i = 0; i < ac; i++)		
+for (i = 0; i < ac; i++)
 {
 for (n = 0; av[i][n]; n++)
 l++;
